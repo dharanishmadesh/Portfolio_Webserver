@@ -1,5 +1,5 @@
 
-# 🚀 **Dharanish's Portfolio Web Server on ESP32** 🌐
+# 🚀 **Dharanish's Portfolio Web Server on ESP32**🌐
 
 Welcome to my personal portfolio project hosted on an **ESP32** microcontroller! 🖥️ This project demonstrates how to host a dynamic and interactive portfolio webpage directly from a microcontroller using **WiFi** and the **WebServer** library. 
 
